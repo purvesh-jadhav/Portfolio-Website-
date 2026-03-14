@@ -55,7 +55,7 @@ body{
 
     background-color: #1e1e1e;
     padding: 5px 15px;
-    color: #FFBF00;
+    color: #069494;
     border: 1px solid #3a3a3a;
     font-size: 0.8rem;
     border-radius: 8px;
@@ -130,11 +130,11 @@ nav a{
 }
 
 .active{
-    color: #FFBF00;
+    color: #069494;
 }
 
 nav a:hover{
-    color: #FFBF00;
+    color: #069494;
 }
 
 .about-heading , .skills-heading ,.education-heading ,.portfolio-heading{
@@ -145,7 +145,7 @@ nav a:hover{
 .line{
     width: 50px;
     height:5px;
-    background-color: #FFBF00;
+    background-color: #069494;
     margin-bottom:15px;
 
 }
@@ -176,8 +176,9 @@ nav a:hover{
 .item img{
     height: 48px;
     width: 48px;
-    filter: invert(75%) sepia(50%) saturate(1000%) hue-rotate(350deg) brightness(110%) contrast(101%);
+    filter: invert(40%) sepia(88%) saturate(420%) hue-rotate(138deg) brightness(90%) contrast(95%);
     margin-bottom: 15px;
+    
 }
 
 .item h3{
@@ -232,7 +233,7 @@ nav a:hover{
     height: 15px;
     width: 15px;
     border-radius: 50%;
-    border: 3px solid #FFBF00;
+    border: 3px solid #069494;
     position: absolute;
     top: 5px;
     left: 0px;
@@ -293,7 +294,7 @@ nav a:hover{
 
 .card span{
     background-color: rgba(255, 191, 0,0.1);
-    color: #FFBF00;
+    color: #069494;
     padding: 4px 8px;
     border-radius: 5px;
     font-size: 0.75rem;
